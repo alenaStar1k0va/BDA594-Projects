@@ -6,3 +6,11 @@ This repo is dedicated to all that is BDA594.
 3. To me, Big Data is a messy set of data that is too complex for processing with average data processing tools. It may contain patterns that can explain many real-world problems.  
 4. Hi! :wave:   
 ![Hi! Nice to meet you!](https://avatars.githubusercontent.com/u/98869371?s=400&u=133a2347f93e38f3feab321064ec059cb667fb3d&v=4)
+
+
+
+5. [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) - Eric Lehman, Thomas Leighton, and Albert R. Meyer [Source](https://github.com/chaconnewu/free-data-science-books#machine-learning)
+
+This book contains essential information for anyone who wants to produce accurate results while performing any kind of mathematical analysis using computin power. After all, data analysis results are only as good as the math and modeling behind it. 
+
+6. [
