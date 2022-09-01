@@ -13,4 +13,5 @@ This repo is dedicated to all that is BDA594.
 
 This book contains essential information for anyone who wants to produce accurate results while performing any kind of mathematical analysis using computin power. After all, data analysis results are only as good as the math and modeling behind it. 
 
-6. [
+6. [WorldBank- Poverty dataset](https://data.worldbank.org/topic/poverty)
+WorldBank provides data on poverty around the world. In light of recent World events (Covid-19, Ukrainian war) we can combine multiple datasets to see how much impact on poverty food and supply shortages had. More importantly, we can measure differences between already impoverished countries vs. high-income countries that may have better resources for food and supply acquisition and allocation (transportation, public programs, etc).
